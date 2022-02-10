@@ -1,4 +1,4 @@
-# CS253 Final Project: myps
+myps
 
 ## Project Background
 The myps project is drawn from the pool of warmup projects used in the Operating Systems (CS453/CS452) course. These warmup projects are assigned to help students identify weak areas in their C programming skillset so they can quickly get up to speed before the first OS programming project. I chose this particular project because it aligns particularly well with the content we've covered over the last four weeks.  
